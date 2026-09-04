@@ -215,7 +215,7 @@ Las contribuciones son bienvenidas. Por favor:
 
 ## 📧 Contacto
 
-Para preguntas o sugerencias: [tu-email@example.com]
+Para preguntas o sugerencias: [eddu.chz.sant.21@gmail.com]
 
 ---
 
